@@ -1,4 +1,4 @@
-![Examples](img/data.png)
+![Examples](data.png)
 
 ### Publication
 Ratnabali Pal
