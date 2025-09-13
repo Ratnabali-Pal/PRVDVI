@@ -1,4 +1,4 @@
-![Examples](img/machine.jpg)
+![Examples](img/dataset (1).png)
 
 ### Publication
 Ratnabali Pal
